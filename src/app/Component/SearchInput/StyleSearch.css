@@ -1,0 +1,15 @@
+.search {
+    outline: none;
+    padding: 20px 7%;
+    border-radius: 20px;
+    border: none;
+    margin-bottom: 5%;
+    background: white;
+    box-shadow: 0px 5px 8px -9px rgba(0,0, 0, 0.75);
+    width: 25vw;
+}
+@media(max-width: 800px){
+    .search {
+        width: 50vw;
+    }
+}
